@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StepsFinal</string>
+    <string name="step_goal_format">Step Goal: %d</string>
+    <string name="step_counter_not_available">Step Counter not available</string>
+    <string name="steps">Step Count = %d</string>
+    <string name="step_goal_completion">Step Goal Completed</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+
+
+</resources>
